@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMarketingCampaign xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MarketingCampaign>
+    <Id>1</Id>
+    <Name>Літня Акція</Name>
+    <StartDate>2024-06-01T00:00:00Z</StartDate>
+    <Budget>15000</Budget>
+    <ClientsCount>300</ClientsCount>
+  </MarketingCampaign>
+  <MarketingCampaign>
+    <Id>2</Id>
+    <Name>Зимова Акція</Name>
+    <StartDate>2024-12-01T00:00:00Z</StartDate>
+    <Budget>20000</Budget>
+    <ClientsCount>400</ClientsCount>
+  </MarketingCampaign>
+  <MarketingCampaign>
+    <Id>3</Id>
+    <Name>Осіння Розпродажа</Name>
+    <StartDate>2024-09-15T00:00:00Z</StartDate>
+    <Budget>10000</Budget>
+    <ClientsCount>250</ClientsCount>
+  </MarketingCampaign>
+  <MarketingCampaign>
+    <Id>4</Id>
+    <Name>Весняний Запуск</Name>
+    <StartDate>2024-03-20T00:00:00Z</StartDate>
+    <Budget>18000</Budget>
+    <ClientsCount>500</ClientsCount>
+  </MarketingCampaign>
+  <MarketingCampaign>
+    <Id>5</Id>
+    <Name>Літня Акція</Name>
+    <StartDate>2024-06-03T00:00:00Z</StartDate>
+    <Budget>12000</Budget>
+    <ClientsCount>300</ClientsCount>
+  </MarketingCampaign>
+  <MarketingCampaign>
+    <Id>6</Id>
+    <Name>Зимова Акція</Name>
+    <StartDate>2024-12-15T00:00:00Z</StartDate>
+    <Budget>10000</Budget>
+    <ClientsCount>400</ClientsCount>
+  </MarketingCampaign>
+  <MarketingCampaign>
+    <Id>7</Id>
+    <Name>Осіння Розпродажа</Name>
+    <StartDate>2024-09-13T00:00:00Z</StartDate>
+    <Budget>16000</Budget>
+    <ClientsCount>250</ClientsCount>
+  </MarketingCampaign>
+  <MarketingCampaign>
+    <Id>8</Id>
+    <Name>Весняний Запуск</Name>
+    <StartDate>2024-03-10T00:00:00Z</StartDate>
+    <Budget>19000</Budget>
+    <ClientsCount>500</ClientsCount>
+  </MarketingCampaign>
+</ArrayOfMarketingCampaign>
